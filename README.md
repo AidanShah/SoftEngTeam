@@ -9,16 +9,16 @@ Notetaker - Nalla
 
 ### 1B) Skills (Languages)
 
-C - Java, Python, C++, Scala, Go, Pandas, Matplotlib, Numpy
-A - Python, Javascript, Pandas
-H - Python, Javascript, C++, C, C#, Java
-N - Python, Pandas, Scala, R
+##### C - Java, Python, C++, Scala, Go, Pandas, Matplotlib, Numpy
+##### A - Python, Javascript, Pandas
+##### H - Python, Javascript, C++, C, C#, Java
+##### N - Python, Pandas, Scala, R
 
 ### 2A) Individual responsibilities
 
 Each member is responsible for completing tasks & assignments before the assigned deadline. If anything occurs, and they are not able to finish the task before the deadline, make sure to let the team know as soon as possible and discuss with them a solution. 
 
-	Members must be reachable. They are expected to respond to or otherwise acknowledge communications (email, etc).
+Members must be reachable. They are expected to respond to or otherwise acknowledge communications (email, etc).
 
 ### 3) General Meeting Schedule
 
