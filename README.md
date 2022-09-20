@@ -2,10 +2,10 @@
 
 ### 1A) Schedule
 
-Manager - Carmen
-Presenter - Aidan
-Researcher - Harrison
-Notetaker - Nalla
+##### Manager - Carmen
+##### Presenter - Aidan
+##### Researcher - Harrison
+##### Notetaker - Nalla
 
 ### 1B) Skills (Languages)
 
