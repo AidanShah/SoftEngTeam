@@ -13,10 +13,10 @@
 | B   | N |    |    |    | N  |    |    |    |    | N  |
 | C   |   |    |    | N  |    | N  |    |    | N  |    |
 | D   | A | A  | **AC** | **AN** | A  | A  | A  | **AC** | **AN** | A  |
-| E   |   | N  |    | **NC** |    | N  | N  |    | NC |    |
-| F   | C | C  | C  | C  | **CA** | C  | C  | C  | C  | CA |
+| E   |   | N  |    | **NC** |    | N  | N  |    | **NC** |    |
+| F   | C | C  | C  | C  | **CA** | C  | C  | C  | C  | **CA** |
 | G   | H | **HA** | **HC** | H  | H  | H  | **HA** | **HC** | H  | H  |
-| H   | C | **HA** | C  | HA |    | **HA** | **HA** | C  | **HA** |    |
+| H   | C | **HA** | C  | **HA** |    | **HA** | **HA** | C  | **HA** |    |
 
 ### 1B) Skills (Languages)
 
