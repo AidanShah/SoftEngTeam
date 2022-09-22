@@ -1,4 +1,3 @@
-Read Me
 # SoftEngTeam
 
 ### 1A) Schedule
