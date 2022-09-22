@@ -25,7 +25,7 @@
 ##### H - Python, Javascript, C++, C, C#, Java
 ##### N - Python, Pandas, Scala, R
 
-### 2A) Individual responsibilities
+### 2) Individual responsibilities
 
 Each member is responsible for completing tasks & assignments before the assigned deadline. If anything occurs, and they are not able to finish the task before the deadline, make sure to let the team know as soon as possible and discuss with them a solution. 
 
@@ -41,7 +41,7 @@ Every week, one team member will be responsible for taking notes on class materi
 
 ### 5) Accountability
 
-This seemed pretty deliberately copied off the example. Can we redo this? For example: when will you escalate to me? Can you document the issue before bringing it up to me? (I will say yes you will have to do so as consequence for copying.)
+This seemed pretty deliberately copied off the example. Can we redo this? Also, we need to be more specific on what or how: When will you escalate to me? Can you document the issue before bringing it up to me? (I will say yes you will have to do so as consequence for copying.)
 
 ### 6) Conflict
 
@@ -49,7 +49,7 @@ Team members will meet and discuss to attempt to handle conflict internally.
 
 ### 7) Code of Ethics
 
-- Act and speak Respectfully
+- Act and speak respectfully
 - Make sure to communicate your problems or concerns to the team
 - Finish your work on time
 
