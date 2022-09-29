@@ -25,7 +25,7 @@
 ##### H - Python, Javascript, C++, C, C#, Java
 ##### N - Python, Pandas, Scala, R
 
-### 2A) Individual responsibilities
+### 2) Individual responsibilities
 
 Each member is responsible for completing tasks & assignments before the assigned deadline. If anything occurs, and they are not able to finish the task before the deadline, make sure to let the team know as soon as possible and discuss with them a solution. 
 
@@ -43,13 +43,23 @@ Every week, one team member will be responsible for taking notes on class materi
 
 Individuals will be held accountable through the team contract. If a teammate fails to adequately communicate with the team or otherwise breaches the team contract, the issue will be brought up during the next meeting. If the behavior continues, and/or is judged to be a problem without a sufficient solution, a meeting will be held with the team members and Ms Feng.
 
+This seemed pretty deliberately copied off the example. Can we redo this?
+
 ### 6) Conflict
 
 Team members will meet and discuss to attempt to handle conflict internally. 
 
 ### 7) Code of Ethics
 
-Act and speak Respectfully
-Make sure to communicate your problems or concerns to the team
-Finish your work on time
+* Act and speak respectfully
+* Make sure to communicate your problems or concerns to the team
+* Finish your work on time
 
+[//]: # I made a comment in markdown. You should change the above to be a list.
+
+## Things TODO
+
+- [ ] Ms. Feng posts comments on a new branch (teacher_revisions): I need to be added as a collaborator!
+- [ ] Individual Responsibilities section for task tracking / code management
+- [ ] Redo accountability section
+- [ ] Fix Markdown and make it pretty (optional)
