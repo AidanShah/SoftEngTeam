@@ -41,9 +41,7 @@ Every week, one team member will be responsible for taking notes on class materi
 
 ### 5) Accountability
 
-Individuals will be held accountable through the team contract. If a teammate fails to adequately communicate with the team or otherwise breaches the team contract, the issue will be brought up during the next meeting. If the behavior continues, and/or is judged to be a problem without a sufficient solution, a meeting will be held with the team members and Ms Feng.
-
-This seemed pretty deliberately copied off the example. Can we redo this?
+We will try to keep each other accountable by utilizing a court of ethics run by the other members of the team. These members will rule on the punishment/resolution to the conflict.
 
 ### 6) Conflict
 
