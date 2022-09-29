@@ -1,6 +1,13 @@
 git pull
 
+git branch ___(branch name)____
 git checkout __(branch name)____
 
 images:
 ![pwetty_please](images/imagesss.jpeg)
+
+
+git status: shows status / changes
+git add everything: git add .
+git commit: git commit -m "put_comment_here"
+git push
