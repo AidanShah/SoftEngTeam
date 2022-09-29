@@ -1,0 +1,6 @@
+git pull
+
+git checkout __(branch name)____
+
+images:
+![pwetty_please](images/imagesss.jpeg)
