@@ -51,9 +51,9 @@ Team members will meet and discuss to attempt to handle conflict internally.
 
 ### 7) Code of Ethics
 
-\* Act and speak respectfully
-\* Make sure to communicate your problems or concerns to the team
-\* Finish your work on time
+* Act and speak respectfully
+* Make sure to communicate your problems or concerns to the team
+* Finish your work on time
 
 [//]: # I made a comment in markdown. You should change the above to be a list.
 
