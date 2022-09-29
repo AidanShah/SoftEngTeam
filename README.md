@@ -41,7 +41,7 @@ Every week, one team member will be responsible for taking notes on class materi
 
 ### 5) Accountability
 
-We will try to keep each other accountable by utilizing a court of ethics run by the other members of the team. These members will rule on the punishment/resolution to the conflict.
+We will try to keep each other accountable by utilizing a court of ethics run by the other members of the team to keep everyone adhering to the contract. These members will rule on the punishment/resolution to the conflict.
 
 ### 6) Conflict
 
