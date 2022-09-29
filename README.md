@@ -37,7 +37,7 @@ We will finish our work during class, else we will schedule a free based on the 
 
 ### 4) Plan for Rotating Note-Keeper
 
-Every week, one team member will be responsible for taking notes on class material that is relevant for group work. This cycle will start with Nalla, then Aiden, then Carmen, then Harrison and rotate accordingly.
+Every week, one team member will be responsible for taking notes on class material that is relevant for group work. This cycle will start with Nalla, then Aidan, then Carmen, then Harrison and rotate accordingly.
 
 ### 5) Accountability
 
