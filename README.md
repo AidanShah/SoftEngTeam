@@ -27,9 +27,7 @@
 
 ### 2) Individual responsibilities
 
-Each member is responsible for completing tasks & assignments before the assigned deadline. If anything occurs, and they are not able to finish the task before the deadline, make sure to let the team know as soon as possible and discuss with them a solution. 
-
-Members must be reachable. They are expected to respond to or otherwise acknowledge communications (email, etc).
+All members should complete their individual work before deadlines agreed upon by the team. Should this not be the case, members should communciate with the rest of the team to keep them informed. For group work that needs to be split into tasks, the split will discussed in class and then an email will be sent that includes the tasks with the assigned people. All members should respond to email communications within 24 hours.
 
 ### 3) General Meeting Schedule
 
@@ -37,7 +35,7 @@ We will finish our work during class, else we will schedule a free based on the 
 
 ### 4) Plan for Rotating Note-Keeper
 
-Every week, one team member will be responsible for taking notes on class material that is relevant for group work. This cycle will start with Nalla, then Aidan, then Carmen, then Harrison and rotate accordingly.
+Every class, one team member will be responsible for taking notes on things that are they deem relevant to group projects. This cycle will start with Nalla, then Aidan, then Carmen, then Harrison and rotate accordingly.
 
 ### 5) Accountability
 
